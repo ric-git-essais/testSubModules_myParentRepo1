@@ -1,0 +1,3 @@
+[submodule "MySubModules/MyLocalSubModuleRepo"]
+	path = MySubModules/MyLocalSubModuleRepo
+	url = https://github.com/ric-git-essais/testSubModules_mySubModuleRepo.git
